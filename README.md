@@ -1,3 +1,14 @@
+
+<p align="center">
+  <img
+    src="assets/profile-banner.png"
+    alt="Hasan Azimi - Senior Mobile Engineer"
+    width="100%"
+  />
+</p>
+
+
+
 # Hi, I'm Hasan Azimi 👋
 
 ### Senior Mobile Engineer | Kotlin | Jetpack Compose | Kotlin Multiplatform
