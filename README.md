@@ -1,7 +1,7 @@
 
 <p align="center">
   <img
-    src="assets/profile-banner"
+    src="[assets/profile-banner](https://github.com/ihasanazimi/ihasanazimi/blob/main/profile-banner.png]"
     alt="Hasan Azimi - Senior Mobile Engineer"
     width="100%"
   />
