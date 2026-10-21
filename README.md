@@ -1,6 +1,6 @@
 # Hi, I'm Hasan Azimi 👋
 
-### Senior Android Engineer | Kotlin | Jetpack Compose | Kotlin Multiplatform
+### Senior Mobile Engineer | Kotlin | Jetpack Compose | Kotlin Multiplatform
 
 I build modern, scalable, and maintainable mobile applications with Kotlin. My focus is Android engineering, declarative UI development, clean architecture, and cross-platform development with Kotlin Multiplatform.
 
