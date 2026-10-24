@@ -2,8 +2,8 @@
 
 <p align="center">
   <img
-    src="./profile-banner.png"
-    alt="Hasan Azimi - Senior Android Engineer"
+    src="./profile-banner2.png"
+    alt="Hasan Azimi - Senior Mobile Engineer"
     width="100%"
   />
 </p>
