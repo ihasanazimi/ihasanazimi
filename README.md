@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="./profile-banner2.png"
+    src="./profile-banner3.png"
     alt="Hasan Azimi - Senior Mobile Engineer"
     width="100%"
   />
